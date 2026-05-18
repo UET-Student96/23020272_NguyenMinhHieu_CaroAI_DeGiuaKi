@@ -278,8 +278,12 @@ python main.py
 
 **Tác giả**
 
-- Họ và tên: Nguyễn Minh Hiếu
+- Họ và tên thành viên 1: Nguyễn Minh Hiếu
 
 - MSSV: 23020272
 
-- Môn học: Trí tuệ nhân tạo 
+- Họ và tên thành viên 2: Đặng Trung Hiếu
+
+- MSSV: 23020269
+
+- **Môn học: Trí tuệ nhân tạo**
